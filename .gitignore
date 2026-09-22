@@ -1,0 +1,36 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/.env
+npm-debug.log*
+
+# React build
+frontend/build/
+frontend/dist/
+
+# Java / Maven
+backend/target/
+backend/.mvn/
+*.class
+
+# Environment files
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java
+hs_err_pid*
+
+# Database
+*.sql.bak
